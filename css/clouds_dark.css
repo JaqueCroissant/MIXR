@@ -1,0 +1,106 @@
+@media screen and (max-width: 1050px){
+    .cloud_left_top {
+	position: absolute;
+	width: 147px;
+	height: 79px;
+	margin-top: 30px;
+	margin-left: -400px;
+	background: url(../images/cloud_left_top.png) no-repeat;
+	}
+
+	.cloud_left {
+		display: none;
+	}
+
+	.cloud_right {
+		position: absolute;
+		width: 111px;
+		height: 60px;
+		margin-top: 140px;
+		margin-left: 270px;
+		background: url(../images/cloud_right.png) no-repeat;
+	}
+
+	.cloud_right_top {
+		display: none;
+	}
+}
+
+@media screen and (min-width: 1050px) and (max-width: 1300px){
+    .cloud_left_top {
+	position: absolute;
+	width: 147px;
+	height: 79px;
+	margin-top: 30px;
+	margin-left: -370px;
+	background: url(../images/cloud_left_top_dark.png) no-repeat;
+	}
+
+	.cloud_left {
+		position: absolute;
+		width: 104px;
+		height: 65px;
+		margin-top: 120px;
+		margin-left: -500px;
+		background: url(../images/cloud_left_dark.png) no-repeat;
+	}
+
+	.cloud_right {
+		position: absolute;
+		width: 111px;
+		height: 60px;
+		margin-top: 140px;
+		margin-left: 250px;
+		background: url(../images/cloud_right_dark.png) no-repeat;
+	}
+
+	.cloud_right_top {
+		overflow: hidden;
+		position: absolute;
+		width: 115px;
+		height: 66px;
+		margin-top: 50px;
+		margin-left: 400px;
+		background: url(../images/cloud_right_top_dark.png) no-repeat;
+	}
+}
+
+@media screen and (min-width: 1300px){
+  .cloud_left_top {
+	position: absolute;
+	width: 147px;
+	height: 79px;
+	margin-top: 30px;
+	margin-left: -415px;
+	background: url(../images/cloud_left_top_dark.png) no-repeat;
+	}
+
+	.cloud_left {
+		position: absolute;
+		width: 104px;
+		height: 65px;
+		margin-top: 120px;
+		margin-left: -585px;
+		background: url(../images/cloud_left_dark.png) no-repeat;
+	}
+
+	.cloud_right {
+		position: absolute;
+		width: 111px;
+		height: 60px;
+		margin-top: 140px;
+		margin-left: 300px;
+		background: url(../images/cloud_right_dark.png) no-repeat;
+	}
+
+	.cloud_right_top {
+		position: absolute;
+		width: 115px;
+		height: 66px;
+		margin-top: 50px;
+		margin-left: 500px;
+		background: url(../images/cloud_right_top_dark.png) no-repeat;
+	}
+}
+
+
